@@ -84,8 +84,8 @@ def adding_matz
         }
      }
      
- programmer_hash[0]= :yukihiro
- programmer_hash[:yukihiro_matsumoto][:languages] ="LISP"
+ programmer_hash[0]= :yukihiro_matsumoto
+ #programmer_hash[:yukihiro_matsumoto][:languages] ="LISP"
  programmer_hash
 
     
